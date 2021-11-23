@@ -1,21 +1,17 @@
 <!-- <a href="#"><img width="100%" height="500px" src="https://i.pinimg.com/originals/33/46/92/334692bc0b661ceb6962376174ee125a.png" height="175px"/></a> -->
 
-<h1 align="center">👋 Hi, I'm @alone, my name is Ozod</h1>
+<h1 align="center">👋 Hi, I'm @islomabduqodir, my name is Islom</h1>
 
 
 ## About me
 
-- 👀 Interested in programming in Python (bots, server side of sites(backend), etc.)
+- 👀 Interested in programming in JavaScript (site building)
 
 - 🌱 I am actively work with **Python** and **JavaScript**
 
 - :clock9: actively learning **React Js** and **NodeJs**
 
-- 💞️ I want to cooperate on projects where it is necessary to implement API with CRUD methods, development of bots (VK, Telegram), etc.)
-
-- 📫 You can find me by mail sad.pr0ger@gmail.com
-
-- 📌 This account is for resume and portfolio only) If you want to see all the repositories (fail projects:wink:) then follow the [link](https://github.com/ozodchik)
+- 📫 You can find me by mail islomabduqodir@gmail.com
 
 ## 🚀Programming languages and tools:
 
